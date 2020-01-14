@@ -1,0 +1,132 @@
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Spotify Advert Muter.pdb
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\CSCore.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NAudio.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NAudio.Vorbis.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\nunit.framework.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NVorbis.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Stannieman.AudioPlayer.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\CSCore.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NAudio.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NAudio.Vorbis.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\nunit.framework.pdb
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\nunit.framework.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NVorbis.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Stannieman.AudioPlayer.pdb
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Stannieman.AudioPlayer.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.csproj.CopyComplete
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.pdb
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Spotify Advert Muter.exe.config
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Spotify Advert Muter.exe
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.exe
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Coordination.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Interop.WaitHandles.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Oop.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Cancellation.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Collections.Deque.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Disposables.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.AppContext.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Console.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.IO.Compression.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Net.Http.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Net.Sockets.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Context.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Coordination.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Interop.WaitHandles.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Oop.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Cancellation.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Collections.Deque.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Disposables.pdb
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Disposables.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify_Advert_Muter.ProgramGUI.resources
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify_Advert_Muter.Properties.Resources.resources
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Spotify Advert Muter.exe.manifest
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Spotify Advert Muter.application
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.exe.manifest
+C:\Users\Chris\source\repos\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.application
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Spotify Advert Muter.exe.config
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Spotify Advert Muter.exe.manifest
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Spotify Advert Muter.application
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Spotify Advert Muter.exe
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Spotify Advert Muter.pdb
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\CSCore.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NAudio.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NAudio.Vorbis.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Coordination.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Interop.WaitHandles.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Oop.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Cancellation.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Collections.Deque.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Disposables.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\nunit.framework.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NVorbis.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Stannieman.AudioPlayer.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.AppContext.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Console.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.IO.Compression.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Net.Http.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Net.Sockets.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\CSCore.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NAudio.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NAudio.Vorbis.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Context.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Coordination.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Interop.WaitHandles.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Oop.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Cancellation.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Collections.Deque.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Disposables.pdb
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Nito.Disposables.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\nunit.framework.pdb
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\nunit.framework.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\NVorbis.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Stannieman.AudioPlayer.pdb
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\Stannieman.AudioPlayer.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify_Advert_Muter.ProgramGUI.resources
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify_Advert_Muter.Properties.Resources.resources
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.csproj.GenerateResource.cache
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.exe.manifest
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.application
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.csproj.CopyComplete
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.exe
+C:\Users\Chris\Documents\Spotify Advert Muter\Spotify Advert Muter\obj\Debug\Spotify Advert Muter.pdb
